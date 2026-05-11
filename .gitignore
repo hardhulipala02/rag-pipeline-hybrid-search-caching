@@ -12,3 +12,5 @@ env/
 
 # Mac System Files
 .DS_Store
+
+.claude/
