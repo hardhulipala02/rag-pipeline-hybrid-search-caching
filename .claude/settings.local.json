@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"from qdrant_client.models import SparseVector, SparseVectorParams, SparseIndexParams; print\\('sparse imports OK'\\)\")",
+      "Bash(/Users/harshithadhulipala/Downloads/rag-pipeline-hybrid-search-caching/venv/bin/python -c \"from qdrant_client.models import SparseVector, SparseVectorParams, SparseIndexParams; print\\('sparse imports OK'\\)\")",
+      "Bash(venv/bin/python *)"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+# The Database (This is usually where the 10k files are)
+qdrant_storage/
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache
+**/__pycache__/
+*.py[cod]
+
+# Mac System Files
+.DS_Store
